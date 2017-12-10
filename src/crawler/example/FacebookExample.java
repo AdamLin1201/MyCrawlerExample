@@ -26,7 +26,7 @@ public class FacebookExample {
 		// search?fields=name,id,likes,talking_about_count&limit=1000&q=靠北&type=page
 		String uri = 
 				"https://graph.facebook.com/v2.5"
-				+ "/search?q=%e7%88%86%e6%96%99&type=page&limit=1000&fields=name,id,likes,talking_about_count"
+				+ "/search?q=pusheen&type=page&limit=1000&fields=name,id,likes,talking_about_count"
 				+ "&access_token=EAACEdEose0cBAEIi9WbQZCM7ZA6SJDjfBa08UaYhof2NkZAbL7qjQAtzyAZA6xXgQOV2XCAAZBhZAw735wg843S7k45Rl7Kvy5zdkB3XiZAspNodBHqUjLts1i3emOtZCCREqJhGjwEhzmmxzf4GscxZBnAfYtYFRKAVNXmUOkjPkkYRZCTJdwG55Kn3msHJ9q1CkZD";
 
 
