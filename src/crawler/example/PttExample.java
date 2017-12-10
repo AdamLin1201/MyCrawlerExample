@@ -54,6 +54,7 @@ public class PttExample {
 						.select("#main-content");
 
 				System.out.println( jsoup.select("span,div").remove().text() );
+				//只印內文
 
 
 	}
