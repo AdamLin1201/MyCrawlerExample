@@ -21,7 +21,7 @@ public class FBElasticImport {
     static int days = 10;
     // 每日抓取文章上限 (上限1000)
     static int maxPosts = 10;
-    static String access_token = "EAACEdEose0cBABkZBbrZBZBf9ZBiJgzZAVL2PdteYTr98LbOO9rDclSW3uZANv1K9ZBnu910xNxXBfKDyCsZCFxWpy065UphZBkfNgEKh0L55qRPF5betpJhIEyxJq0e8ed4lWRTAvL5JN4xqJp5XMFewwyCifVQF2K4z72QDdEIL52ufbaZAu1UGj33OdMr8DSUQZD";
+    static String access_token = "EAACEdEose0cBANTub3Me3XjY5jZCsa5E1j6W10UL00p06KpD3uZCehKP73g51kBGkWRuZAYGfAfoIHUjZBgDeOxldiZCB7LxdfcXqSTwW4ZCrTqEPq90acsMvenBZB2qHEtLVj5kR2jQfMeZCMuSP6tGz2Ev17IF9kKHA7xZAiF2nXI0l8jaRYfoIsvfL72tdqLJNkvr2rW1MBgZDZD";
 
     public static void main(String[] args) {
 
